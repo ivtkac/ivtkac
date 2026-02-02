@@ -16,3 +16,4 @@
 ## Tools
 
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+![Zed](https://img.shields.io/badge/-Zed-000?&logo=zedindustries)
