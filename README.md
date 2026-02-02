@@ -7,6 +7,7 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
