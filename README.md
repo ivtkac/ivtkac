@@ -6,11 +6,11 @@
 
 ### Technologies
 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 
 ## Tools
