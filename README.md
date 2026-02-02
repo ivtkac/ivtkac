@@ -1,7 +1,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Bash](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 ### Technologies
