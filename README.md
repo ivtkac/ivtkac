@@ -1,10 +1,10 @@
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
-### Technologies
+## Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
